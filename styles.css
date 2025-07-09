@@ -1,0 +1,55 @@
+body{
+   background-color: black;
+}
+
+.Post{
+   width: 40%;
+   height: auto;
+   background-color: white ;
+   justify-self: center;
+}
+
+.post-header, .icon-header, .icons  {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.Post-imagen{
+   width: 100%;
+   height: auto;
+}
+
+.icons{
+   margin: 0.5rem;
+   font-size: 1,5rem;
+}
+
+.post-body{
+   margin: 0.3rem 0,5rem;
+}
+
+
+.icon-puntos{
+   float: right;
+}
+
+.post-icon, .icon-guardar, .icon-puntos {
+   font-size: 1.3rem;
+}
+
+.icon-html{
+   font-size: 1.7rem;
+}
+
+.icon-puntos, .icon-html{
+   margin: 1rem;
+}
+
+.header-text{
+   font-size: 1rem;
+}
+
+.post-body {
+   margin: 0.5rem;
+}
